@@ -46,5 +46,27 @@
       "fab": 20,
       "filippo": 100
     }
+  },
+  {
+    "nome": "fab",
+    "descrizione": "spesa2",
+    "importo": 20,
+    "partecipanti": [
+      "ele",
+      "fab",
+      "filippo"
+    ],
+    "gruppoId": "gmry708nrybx8b3"
+  },
+  {
+    "nome": "filippo",
+    "descrizione": "spesa2",
+    "importo": 20,
+    "partecipanti": [
+      "ele",
+      "fab",
+      "filippo"
+    ],
+    "gruppoId": "gmry708nrybx8b3"
   }
 ]
