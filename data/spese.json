@@ -14,5 +14,37 @@
       "fab": 32,
       "filippo": 3
     }
+  },
+  {
+    "nome": "fab",
+    "descrizione": "spea [NE]",
+    "importo": 20,
+    "partecipanti": [
+      "ele",
+      "fab",
+      "filippo"
+    ],
+    "gruppoId": "gmry6whfm80f366",
+    "quote": {
+      "ele": 15,
+      "fab": 20,
+      "filippo": 100
+    }
+  },
+  {
+    "nome": "filippo",
+    "descrizione": "spea [NE]",
+    "importo": 100,
+    "partecipanti": [
+      "ele",
+      "fab",
+      "filippo"
+    ],
+    "gruppoId": "gmry6whfm80f366",
+    "quote": {
+      "ele": 15,
+      "fab": 20,
+      "filippo": 100
+    }
   }
 ]
